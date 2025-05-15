@@ -10,6 +10,14 @@
   "jest": {
   "testMatch": ["**/test/**/*.test.js"]
   },
+  "repository": "github:astares/astares-smallscript",
+  "keywords": [
+    "javascript",
+    "smallscript",
+    "Smalltalk",
+    "astares",
+    "astares-smallscript"
+  ],
   "author": "Dipl.-Inf. Torsten Bergmann, astares.com",
   "license": "MIT",
   "dependencies": {
