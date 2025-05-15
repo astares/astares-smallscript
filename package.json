@@ -1,6 +1,6 @@
 {
   "name": "astares-smallscript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Make JavaScript more convinient",
   "main": "src/index.js",
   "scripts": {
