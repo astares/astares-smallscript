@@ -7,7 +7,7 @@
 
 ## Overview
 
-`astares-smallscript` is a lightweight JavaScript utility designed to extend native functionality of JavaScript to make it more convenient to use.
+`astares-smallscript` is a lightweight **JavaScript** utility designed to extend native functionality of the language to make it more convenient to use.
 
 ## Installation
 
