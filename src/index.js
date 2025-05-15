@@ -36,4 +36,5 @@ require("./extensions/array");
 require("./extensions/number");
 require("./extensions/string");
 
+require("./collections/OrderedCollection");
 
