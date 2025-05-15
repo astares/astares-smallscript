@@ -19,6 +19,13 @@ To install the package via npm, run:
 npm install astares-smallscript
 ```
 
+## License
+
+This project is licensed under the **MIT License** – meaning you are free to use, modify, distribute, and even commercialize it as long as you **include the original license**.
+
+See the full license details in the [LICENSE](https://github.com/astares/astares-smallscript/blob/main/LICENSE) file.
+
+
 ### Extensions
 
 The package includes some useful extensions to JavaScript built in types:
