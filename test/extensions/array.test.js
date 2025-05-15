@@ -1,4 +1,4 @@
-require("../../src/extensions/array"); // Ensure the extensions are loaded
+require("../../src/extensions/array");
 
 describe("Array prototype extensions", () => {
 

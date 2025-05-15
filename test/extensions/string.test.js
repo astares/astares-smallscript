@@ -1,4 +1,4 @@
-require("../../src/extensions/string"); // Ensure the extensions are loaded
+require("../../src/extensions/string");
 
 describe("String prototype extensions", () => {
 

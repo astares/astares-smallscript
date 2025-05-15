@@ -3,12 +3,12 @@
  * If the string is empty, returns "".
  * 
  * @function reverse
- * @returns Returns the reversed version of the string.
+ * @returns {string} - The reversed string.
  * 
  * @example
  * const arr = "Hello";
  * const firstElement = arr.reverse();    
- * console.log(firstElement); // Output: 1  
+ * console.log(firstElement); // Output: olleH
  *  
  */
 String.prototype.reverse = function() {

@@ -23,6 +23,7 @@ npm install astares-smallscript
 The package includes some useful extensions to JavaScript built in types:
 
 - [Array extensions](doc/extensions/array.md)
+- [Number extensions](doc/extensions/number.md)
 - [String extensions](doc/extensions/string.md)
 
 

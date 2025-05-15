@@ -1,4 +1,4 @@
-# String extensions
+## String extensions
 
 ### reverse()
 
